@@ -1,11 +1,9 @@
 python-dotenv
 pandas
-numpy
-pymongo
+numpy==1.26.4
 certifi
-pymongo[srv]>=4.6.0
+pymongo>=4.6.0
 scikit-learn
-dill
 pyaml
 
 ##-e .
